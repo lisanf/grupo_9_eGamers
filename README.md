@@ -1,29 +1,36 @@
-# grupo_9_eGamers
-Ecommerce de videojuegos para gamers aficionados.
+# Proyecto Integrador: Grupo 9 || eGamers || 
 
-Lisandro Florentín
-Juan José Cabanellas
-Alejo Corvalán
-Pablo Loriente
-Johann Wrede
+#### Temática: 
 
-Benchmark
+> Ecommerce de videojuegos para gamers aficionados.
 
-Desarrolladoras de videojuegos y comercializadoras:
+#### Integrantes:
 
-https://store.steampowered.com/
-https://www.epicgames.com/
-https://www.riotgames.com/en
-https://www.roblox.com/
-https://www.ea.com/
-https://www.rockstargames.com/
-https://us.shop.battle.net/en-us
-https://www.eneba.com/latam/?af_id=GameGengo
+* Lisandro Florentín
+* Juan José Cabanellas
+* Alejo Corvalán
+* Pablo Loriente
+* Johann Wrede
+
+-------------------------------------------------------
+
+## Benchmark
+
+### Desarrolladoras de videojuegos y comercializadoras:
+
+* [Steam](https://store.steampowered.com/)
+* [Epic Games](https://www.epicgames.com/) 
+* [Riot Games](https://www.riotgames.com/en)
+* [Roblox](https://www.roblox.com/)
+* [Electronic Arts](https://www.ea.com/)
+* [Rockstar Games](https://www.rockstargames.com/)
+* [Battle.net](https://us.shop.battle.net/en-us)
+* [Eneba](https://www.eneba.com/latam/?af_id=GameGengo)
 
 
-Stores de Equipos/Franquicias de eSports:
+### Stores de Equipos/Franquicias de eSports:
 
-https://fazeclan.com/
-https://shop.kruesports.com/
-https://shop.vitality.gg/
-https://www.furia.gg/
+* [FaZe Clan](https://fazeclan.com/)
+* [KRÜ esports](https://shop.kruesports.com/)
+* [Team Vitality](https://shop.vitality.gg/)
+* [FURIA Esports](https://www.furia.gg/)
