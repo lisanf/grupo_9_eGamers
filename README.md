@@ -1,12 +1,12 @@
-# Grupo 9 - eGamers 
+eGamers 
 
-### Proyecto Integrador - Programación Web Full Stack
+### Proyecto Integrador - Programación Web Full Stack 
 
 #### Temática: 
 
 > Ecommerce de videojuegos para gamers aficionados.
 
-#### Integrantes:
+#### Integrantes (Grupo 9):
 
 * Lisandro Florentín
 * Juan José Cabanellas
