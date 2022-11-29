@@ -27,4 +27,3 @@ https://fazeclan.com/
 https://shop.kruesports.com/
 https://shop.vitality.gg/
 https://www.furia.gg/
-
