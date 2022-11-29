@@ -18,6 +18,8 @@ https://www.roblox.com/
 https://www.ea.com/
 https://www.rockstargames.com/
 https://us.shop.battle.net/en-us
+https://www.eneba.com/latam/?af_id=GameGengo
+
 
 Stores de Equipos/Franquicias de eSports:
 
