@@ -1,4 +1,6 @@
-# Proyecto Integrador: Grupo 9 || eGamers || 
+# Grupo 9 - eGamers 
+
+### Proyecto Integrador - Programación Web Full Stack
 
 #### Temática: 
 
@@ -14,7 +16,7 @@
 
 -------------------------------------------------------
 
-## Benchmark
+## Referentes del mercado
 
 ### Desarrolladoras de videojuegos y comercializadoras:
 
