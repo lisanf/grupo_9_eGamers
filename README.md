@@ -1,5 +1,5 @@
 # grupo_9_eGamers
-Ecommerce de videojuegos.
+Ecommerce de videojuegos para gamers aficionados.
 
 Lisandro Florentín
 Juan José Cabanellas
