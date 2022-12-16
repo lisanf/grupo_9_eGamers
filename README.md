@@ -10,6 +10,7 @@
 
 * Lisandro Florentín
 * Juan José Cabanellas
+Soy farmacéutico y a lo largo de la carrera empecé a sentir curiosidad sobre las tecnologías y la programación, esperando convertirme un profesional en estas áreas además. Siempre dispuesto a aprender y hacer más
 * Alejo Corvalán
 
 * Pablo Loriente:
