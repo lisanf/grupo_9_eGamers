@@ -11,6 +11,7 @@
 * Lisandro Florentín
 * Juan José Cabanellas
 * Alejo Corvalán
+
 * Pablo Loriente:
   Soy abogado, trabajado en el Poder Judicial. Mis inicios en la programacion fue en Visual Basic 6.0, bases de datos (MAccess, SQL Server 7), Crystal Reports. Siempre me encanto la programacion y diseño de programas a medida, algo que quiero aprender en entorno web y con este curso busco poder dar el puntapie inicial para llegar a ser un buen programador, un gran profesional e insertarme en el mundo IT.
 * Johann Wrede
