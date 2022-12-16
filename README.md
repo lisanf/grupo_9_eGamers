@@ -22,7 +22,8 @@ Soy farmacéutico y a lo largo de la carrera empecé a sentir curiosidad sobre l
 ## Referentes del mercado
 
 ### Desarrolladoras de videojuegos y comercializadoras:
-
+* https://www.xbox.com/es-AR
+*https://store.playstation.com/es-ar/pages/
 * [Steam](https://store.steampowered.com/)
 * [Epic Games](https://www.epicgames.com/) 
 * [Riot Games](https://www.riotgames.com/en)
