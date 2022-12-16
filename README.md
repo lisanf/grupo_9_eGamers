@@ -8,7 +8,7 @@
 
 #### Grupo 9 - Integrantes:
 
-* Lisandro Florentín: Entusiasta del desarrollo de producto y tecnología. Economista argentino de 28 años.  
+* Lisandro Florentín: Entusiasta del desarrollo de producto y tecnología. Economista argentino.  
 * Juan José Cabanellas
 Soy farmacéutico y a lo largo de la carrera empecé a sentir curiosidad sobre las tecnologías y la programación, esperando convertirme un profesional en estas áreas además. Siempre dispuesto a aprender y hacer más
 * Alejo Corvalán
