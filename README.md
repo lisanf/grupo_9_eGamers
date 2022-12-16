@@ -21,9 +21,8 @@ Soy farmacéutico y a lo largo de la carrera empecé a sentir curiosidad sobre l
 
 ## Referentes del mercado
 
-### Desarrolladoras de videojuegos y comercializadoras:
-* https://www.xbox.com/es-AR
-*https://store.playstation.com/es-ar/pages/
+### Desarrolladoras de videojuegos y comercializadoras: 
+
 * [Steam](https://store.steampowered.com/)
 * [Epic Games](https://www.epicgames.com/) 
 * [Riot Games](https://www.riotgames.com/en)
@@ -32,6 +31,8 @@ Soy farmacéutico y a lo largo de la carrera empecé a sentir curiosidad sobre l
 * [Rockstar Games](https://www.rockstargames.com/)
 * [Battle.net](https://us.shop.battle.net/en-us)
 * [Eneba](https://www.eneba.com/latam/?af_id=GameGengo)
+* [XBOX](https://www.xbox.com/es-AR)
+* [Play Station](https://store.playstation.com/es-ar/pages/)
 
 
 ### Stores de Equipos/Franquicias de eSports:
