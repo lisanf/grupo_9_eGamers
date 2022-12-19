@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'Chivo Mono', monospace;
     }
 
 
@@ -10,9 +11,16 @@
 /*/////////////////// HEADER /////////////////////////////////*/
 /*////////////////////////////////////////////////////////////*/
 
+.header-global {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: blue;
+
+}
+
 .top-nav {
     
-    height: 60px;
+    height: 80px;
     background-color: #FF006F;
     color: #FFFFFF;
     display: flex;
@@ -22,6 +30,55 @@
     
 }
 
-.search-container{
-    background-color: #FFFFFF;
+.burger-menu{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    flex-wrap: wrap;
+    font-size: 40px;
+    padding: 20px;
 }
+
+.cart{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    flex-wrap: wrap;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.egamers-logo{
+    text-align: center;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+.search-container {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.search-form {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.search-input {
+    width: 80%;
+    border-style: hidden;
+}
+
+.search-button {
+    border-style: hidden;
+    font-size: 25px;
+}
+
