@@ -15,6 +15,15 @@ app.listen(port, () => {
 app.get("/", (req, res) => {
     res.sendFile(path.resolve(__dirname, "./views/home.html"))
 })
+
+app.get("/home", (req, res) => {
+    res.sendFile(path.resolve(__dirname, "./views/home.html"))
+})
+
+app.get("/store", (req, res) => {
+    res.sendFile(path.resolve(__dirname, "./views/store.html"))
+})
+
 app.get("/register", (req, res) => {
     res.sendFile(path.resolve(__dirname, "./views/register.html"));
 })
@@ -30,3 +39,5 @@ app.get("/productDetail", (req, res) => {
 app.get("/productCart", (req, res) => {
     res.sendFile(path.resolve(__dirname, "./views/productCart.html"));
 })
+
+
