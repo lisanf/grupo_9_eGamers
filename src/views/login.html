@@ -67,13 +67,24 @@
                         Login Page
 ************************************************************************-->
 
-    <main>
+    <main class="main-login-section">
 
-        <p>
-            Hola soy un login
-        </p>
+        <div class="login-widget">
 
-    </main>
+                <form action="/" method="post" class="formulario-login">
+                        <div class="campo">
+                            <input type="text" name="usuario" placeholder="Nombre de usuario" required="">
+                        </div>
+                        <div class="campo">
+                            <input type="password" name="contraseña" placeholder="Contraseña" required="">
+                        </div>
+                        <div class="campo, boton-entrar">
+                            <button type="submit">Entrar</button>
+                        </div>
+                </form>
+                
+        </div>
+</main> 
 
 <!--***********************************************************************
                         Footer 

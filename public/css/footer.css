@@ -25,8 +25,9 @@ footer {
 .footer-global {
     display: flex;
     justify-content: space-around;
+    /*
     border-style: solid;
-    border-color: blue;
+    border-color: blue;*/
 
 }
 
