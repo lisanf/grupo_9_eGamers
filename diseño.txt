@@ -1,0 +1,7 @@
+Paleta de Colores:
+
+Fondos: #FFFFFF
+
+Principal: #FF006F
+
+Texto + íconos: #000000

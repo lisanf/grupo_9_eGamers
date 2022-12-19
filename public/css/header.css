@@ -1,0 +1,27 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+
+
+/*////////////////////////////////////////////////////////////*/
+/*/////////////////// HEADER /////////////////////////////////*/
+/*////////////////////////////////////////////////////////////*/
+
+.top-nav {
+    
+    height: 60px;
+    background-color: #FF006F;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.search-container{
+    background-color: #FFFFFF;
+}
