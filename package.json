@@ -1,0 +1,24 @@
+{
+  "name": "grupo_9_egamers",
+  "version": "1.0.0",
+  "description": "> Ecommerce de videojuegos para gamers aficionados.",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon /src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisanf/grupo_9_eGamers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisanf/grupo_9_eGamers/issues"
+  },
+  "homepage": "https://github.com/lisanf/grupo_9_eGamers#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
