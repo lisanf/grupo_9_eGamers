@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Chivo Mono', monospace;
+    }
+
+
+/*////////////////////////////////////////////////////////////*/
+/*/////////////////// FOOTER /////////////////////////////////*/
+/*////////////////////////////////////////////////////////////*/
+
+footer {
+    background-color: #FF006F;
+    min-height: 200px;
+    padding-top: 20px;
+    color: #FFFFFF;
+    /*  poner footer abajo */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-global {
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border-color: blue;
+
+}
+
+
