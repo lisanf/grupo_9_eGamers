@@ -45,8 +45,8 @@ header{
     justify-content: space-between;
     align-content: space-around;
     flex-wrap: wrap;
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 25px;
 }
 
 .cart{
@@ -54,8 +54,8 @@ header{
     justify-content: space-between;
     align-content: space-around;
     flex-wrap: wrap;
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 25px;
 }
 
 .egamers-logo{
