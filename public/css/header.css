@@ -66,16 +66,18 @@ header{
     padding: 15px;
 }
 
-/* .egamers-logo{
+/*
+.egamers-logo{
     text-align: center;
     font-family: 'Chivo Mono', monospace;
     font-size: 15px;
     padding: 15px;
-} */
+} 
+*/
 
 #logo{
-    width: 36%;
-    margin-left: 24%;
+    width: 90%;
+    text-align: center;
 }
 
 /*////////////////////////////////////////////////////////////*/
