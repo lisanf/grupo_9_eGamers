@@ -20,6 +20,10 @@ app.get("/home", (req, res) => {
     res.sendFile(path.resolve(__dirname, "./views/home.html"))
 })
 
+app.get("/menu", (req, res) => {
+    res.sendFile(path.resolve(__dirname, "./views/menu.html"))
+})
+
 app.get("/store", (req, res) => {
     res.sendFile(path.resolve(__dirname, "./views/store.html"))
 })
