@@ -78,8 +78,28 @@
                         Home
 ************************************************************************-->
 
+<main>
+    <div class="caja-main">
 
-HOLA ESTO ES EL REGISTER PAGE
+        <form action="/login" method="get" class="formulario-register">
+            <div class="campo">
+                <input type="email" name="mail" placeholder="Ingresa tu Mail" required="">
+            </div>
+            <div class="campo">
+                <input type="text" name="usuario" placeholder="Ingresa tu nuevo Usuario" required="">
+            </div>
+            <div class="campo">
+                <input type="password" name="contraseña" placeholder="Ingresa tu nueva Contraseña" required="">
+            </div>
+            <div class="campo">
+                <input type="password" name="contraseñaRepite" placeholder="Repite la contraseña" required="">
+            </div>
+            <div class="campo boton-entrar">
+                <button type="submit">Crear cuenta</button>
+            </div>
+        </form>
+    </div>
+</main>
 
 <!--***********************************************************************
                         Footer 
