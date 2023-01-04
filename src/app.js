@@ -3,6 +3,8 @@ const path = require('path');
 
 let app = express();
 
+const mainRouter = require("./routers/mainRouter.js")
+
 app.use(express.static("public"));
 
 // Ponemos a escuchar el servidor
