@@ -4,12 +4,12 @@ const path = require("path")
 
 const mainController = {
     home: function(req, res){
-        let home = path.resolve(__dirname, "..views/users/home.html")
-        res.sendFile(home)
+        let home = path.join(__dirname, "../views/home.ejs")
+        res.render(home)
     },
     menu: function(req, res){
-        let menu = path.resolve(__dirname, "../views/users/menu.html")
-        res.sendFile(menu)
+        let menu = path.join(__dirname, "../views/menu.ejs")
+        res.render(menu)
     },
 }
 module.exports = mainController
