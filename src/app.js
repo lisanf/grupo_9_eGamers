@@ -3,13 +3,15 @@ const path = require('path');
 
 let app = express();
 
-const mainRouter = require("./routes/mainRouter.js")
+const mainRoutes = require("./routes/mainRoutes.js")
+const usersRoutes = require("./routes/usersRoutes.js")
 
 app.use(express.static("public"));
 
 app.set('view engine','ejs');
 
-app.use(mainRouter);
+app.use(mainRoutes);
+app.use(usersRoutes);
 
 // Ponemos a escuchar el servidor
 const port = process.env.PORT || 3030;
