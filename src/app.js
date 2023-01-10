@@ -3,7 +3,7 @@ const path = require('path');
 
 let app = express();
 
-const mainRouter = require("./routers/mainRouter.js")
+const mainRouter = require("./routes/mainRoutes.js")
 
 app.use(express.static("public"));
 
@@ -13,7 +13,7 @@ app.listen(port, () => {
     console.log("Servidor corriendo en http://localhost:" + port)
 });
 
-
+app.use("/", mainRouter)
 
 // Definimos las rutas a los distintos pedidos que nuestro sitio sabe responder
 // app.get("/", (req, res) => {
