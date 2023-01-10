@@ -7,11 +7,7 @@ const mainRouter = require("./routers/mainRouter.js")
 
 app.use(express.static("public"));
 
-// Ponemos a escuchar el servidor
-
-
-app.use("/", mainRouter)
-
+// Ponemos a escuchar el servidorapp.use("/", mainRouter)
 const port = process.env.PORT || 3030;
 app.listen(port, () => {
     console.log("Servidor corriendo en http://localhost:" + port)
